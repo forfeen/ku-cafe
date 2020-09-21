@@ -14,4 +14,4 @@ Beverages
 
 | Name      | Role      | Github   |
 |:----------|-----------|----------|
-| Teeranut | breakfast-menu | @LevNut |
+| Teeranut Sawanyawat | breakfast-menu | @LevNut |
