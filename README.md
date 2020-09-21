@@ -4,7 +4,7 @@ Breakfast Menu
 Lunch Menu  
 Dinner Menu  
 Night Food Menu  
-[Beverages](Menu.md##beverages)
+[Beverages](Menu.md#beverages)
 
 ## About Us
 
