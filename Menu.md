@@ -10,12 +10,12 @@
 
 | Item                                   | Price|
 |:---------------------------------------|-----:|
-| Fried Rice                             | 30.0 |
-| Yum Salad                              | 30.0 |
-| Spicy Bahmee Soup                      | 35.0 |
-| Yellow Curry                           | 35.0 |
-| Beef Mussaman                          | 40.0 |
-| Beef Noodle                            | 45.0 |
+| Fried Rice                             | $10.00 |
+| Yum Salad                              | $10.00 |
+| Spicy Bahmee Soup                      | $11.00 |
+| Yellow Curry                           | $11.00 |
+| Beef Mussaman                          | $12.00 |
+| Beef Noodle                            | $12.00 |
 
 etc.
 
