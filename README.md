@@ -12,8 +12,6 @@ Beverages
 
 ## About Us
 
-**TODO**: Each person adds himself to this list; **not** one person adds everyone
-
 | Name      | Role      | Github   |
 |:----------|-----------|----------|
 | Kongtapp Veerawattananun | Night Food Menu | @KongtappV |
