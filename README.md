@@ -2,7 +2,7 @@
 
 Breakfast Menu
 
-[Lunch Menu](Menu.md##lunch-menu)
+[Lunch Menu](Menu.md#lunch-menu)
 
 Dinner Menu
 
