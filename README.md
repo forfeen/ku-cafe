@@ -1,15 +1,10 @@
 # KU Cafe
 
-Breakfast Menu
-
-Lunch Menu
-
-
-[Dinner Menu](Menu.md##dinner-menu)
+Breakfast Menu  
+Lunch Menu  
+[Dinner Menu](Menu.md#dinner-menu)
 [Night Food Menu](Menu.md#night-food-menu)
-
-
-Beverages
+[Beverages](Menu.md#beverages)
 
 ## About Us
 
@@ -17,4 +12,4 @@ Beverages
 |:----------|-----------|----------|
 | Chananya | Dinner Menu | @forfeen |
 | Kongtapp Veerawattananun | Night Food Menu | @KongtappV |
-| ...       | ...       | ...      |
+| Narawish Sangsiriwut | Beverages | @NarawishS      |

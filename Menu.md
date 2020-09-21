@@ -30,6 +30,16 @@
 | Green Tea Pudding                      | $ 1.45 |
 | Strawberry Pudding                     | $ 1.60 |
 
+## Beverages
+
+| Item                                     | Price |
+|:-----------------------------------------|------:|
+|Glass of ice                              |  FREE |
+|Water                                     |  $1 |
+|Coke                                      |  $1.45 |
+|Green tea                                 |  $2 |
+|Chang                                     |  $3 |
+
 ---
 
 We accept PromptPay, KUPay, Alipay, and cash. Sorry, no credit cards.
