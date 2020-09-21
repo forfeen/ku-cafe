@@ -14,11 +14,11 @@ Coming soon.
 
 | Item                                     | Price |
 |:-----------------------------------------|------:|
-|Glass of ice                              |   2.0 |
-|Water                                     |  10.0 |
-|Green tea                                 |  15.0 |
-|Coke                                      |  15.0 |
-|Chang                                     |  80.0 |
+|Glass of ice                              |  FREE |
+|Water                                     |  $1 |
+|Coke                                      |  $1.45 |
+|Green tea                                 |  $2 |
+|Chang                                     |  $3 |
 
 ---
 
