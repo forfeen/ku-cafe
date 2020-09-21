@@ -2,7 +2,7 @@
 
 **TODO**: add hyperlinks and format these one per line. Remove this TODO.
 
-[Breakfast Menu](Menu.md##breakfast-menu)
+[Breakfast Menu](Menu.md#breakfast-menu)
 Lunch Menu
 Dinner Menu
 Night Food Menu
