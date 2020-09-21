@@ -4,16 +4,18 @@
 
 | Item                                   | Price |
 |:---------------------------------------|------:|
-| Omelet Rice                            |  30.0  |
-| Tom Luad Moo                           |  30.0  |
-| Mama                            |  20.0  |
-| Khao Neow Moo Ping                            |  25.0  |
-| Khao Mun Kai                            |  35.0  |
+| Omelet Rice                            |  $1  |
+| Tom Luad Moo                           |  $1 |
+| Mama                            |  $0.64  |
+| Khao Neow Moo Ping                            |  0.80  |
+| Khao Mun Kai                            |  $1.13  |
 
 ## Lunch Menu
 ---
+Coming soon
 
 ## Dinner Menu
 ---
+Coming soon
 
 We accept PromptPay, KUPay, Alipay, and cash. Sorry, no credit cards.
