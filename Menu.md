@@ -8,7 +8,14 @@
 
 ## Lunch Menu
 
-Coming soon.
+## Dinner Menu
+
+| Item                                   | Price |
+|:---------------------------------------|------:|
+| Cheese Fries                           | $ 2.00 |
+| Chicken Tender Plate                   | $ 3.00 |
+| Lemon Dill Salmon                      | $ 3.00 |
+| Bacon, Mushroom, Swiss Burger          | $ 4.00 |
 
 ## Night Food Menu
 
