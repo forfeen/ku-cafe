@@ -10,7 +10,15 @@
 
 Coming soon.
 
-etc.
+## Beverages
+
+| Item                                     | Price |
+|:-----------------------------------------|------:|
+|Glass of ice                              |   2.0 |
+|Water                                     |  10.0 |
+|Green tea                                 |  15.0 |
+|Coke                                      |  15.0 |
+|Chang                                     |  80.0 |
 
 ---
 
