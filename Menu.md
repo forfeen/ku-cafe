@@ -4,18 +4,22 @@
 
 | Item                                   | Price |
 |:---------------------------------------|------:|
-| nothing yet                            |  0.0  |
+| Omelet Rice                            |  $ 1.00  |
+| Tom Luad Moo                           |  $ 1.00 |
+| Mama                                   |  $ 0.64  |
+| Khao Neow Moo Ping                     |  $ 0.80  |
+| Khao Mun Kai                           |  $ 1.13  |
 
 ## Lunch Menu
 
 | Item                                   | Price|
 |:---------------------------------------|-----:|
-| Fried Rice                             | $3.00 |
-| Yum Salad                              | $3.00 |
-| Spicy Bahmee Soup                      | $4.00 |
-| Yellow Curry                           | $4.00 |
-| Beef Mussaman                          | $5.00 |
-| Beef Noodle                            | $5.00 |
+| Fried Rice                             | $ 3.00 |
+| Yum Salad                              | $ 3.00 |
+| Spicy Bahmee Soup                      | $ 4.00 |
+| Yellow Curry                           | $ 4.00 |
+| Beef Mussaman                          | $ 5.00 |
+| Beef Noodle                            | $ 5.00 |
 
 ## Dinner Menu
 
@@ -44,10 +48,11 @@
 | Item                                     | Price |
 |:-----------------------------------------|------:|
 |Glass of ice                              |  FREE |
-|Water                                     |  $1 |
-|Coke                                      |  $1.45 |
-|Green tea                                 |  $2 |
-|Chang                                     |  $3 |
+|Water                                     |  $ 1.00 |
+|Coke                                      |  $ 1.45 |
+|Green tea                                 |  $ 2.00 |
+|Chang                                     |  $ 3.00 |
+
 
 ---
 
