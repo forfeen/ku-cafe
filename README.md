@@ -6,7 +6,7 @@ Breakfast Menu
 
 Lunch Menu
 
-[Dinner Menu](#dinnermenu)
+[Dinner Menu](Menu.md##dinner-menu)
 
 Night Food Menu
 
